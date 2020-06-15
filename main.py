@@ -53,7 +53,7 @@ fps_value = 0
 last_time = time.time()
 running = True
 while running:
-    # clock.tick(10)
+    clock.tick(10)
     # RGB = Red, Green, Blue
     screen.fill((49, 142, 70))
     # Background Image
